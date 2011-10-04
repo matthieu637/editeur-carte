@@ -1,0 +1,17 @@
+keylistener frame
+
+onglet
+
+selection copier/effacer
+
+menu icone open/save/..//
+
+9cases
+
+definir accessible
+
+rectangle de selection
+
+jscrollpane left
+
+confirmation fermeture
